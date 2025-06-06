@@ -8,7 +8,7 @@
 
 ## What is x32 Playbook?
 
-This Playbook for Windows 11 is designed to significantly improve your system's performance and minimize latency. It helps you make your system faster and more stable by applying a set of carefully selected optimizations.
+Playbook for Windows 11 is all about improving performance and minimizing system latency. Make your system faster and more stable.
 
 ## Requirements
 - Freshly installed Windows 11 <ins>**(Highly Recommended)**</ins>
