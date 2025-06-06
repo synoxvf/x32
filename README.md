@@ -1,6 +1,7 @@
 # x32 Playbook for Windows 11
-[![LICENSE](https://img.shields.io/github/license/synoxvf/x32?style=for-the-badge&logo=github&color=blue)](https://github.com/synoxvf/x32/blob/main/LICENSE)
-[![RELEASE](https://img.shields.io/github/release/synoxvf/x32?style=for-the-badge&logo=github&color=blue)](https://github.com/synoxvf/x32/releases/latest)
+
+[![LICENSE](https://img.shields.io/github/license/synoxvf/x32?style=for-the-badge&logo=github&color=green)](https://github.com/synoxvf/x32/blob/main/LICENSE)
+[![RELEASE](https://img.shields.io/github/release/synoxvf/x32?style=for-the-badge&logo=github&color=green)](https://github.com/synoxvf/x32/releases/latest)
 
 ## Guides
 
