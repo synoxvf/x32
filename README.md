@@ -60,7 +60,7 @@ The Playbook improves your overall computing experience through various **conven
 To access the source code of the Playbook, follow these steps:
 
 1.  Download the **[Playbook](https://github.com/synoxvf/x32/releases/latest)**.
-2.  Right-click on the `Playbook-For-Win11.apbx` file.
+2.  Right-click on the `x32.apbx` file.
 3.  Select "7-Zip" -> "Extract files...".
 4.  Enter the password: `malte`
 5.  Click "OK".
